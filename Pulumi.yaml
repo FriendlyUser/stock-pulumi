@@ -1,0 +1,3 @@
+name: stock-pulumi
+runtime: go
+description: Google Cloud Stock Infrastructure as Code
